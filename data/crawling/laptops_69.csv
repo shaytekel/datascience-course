@@ -1,0 +1,49 @@
+name,company,date,weight,OS,ram,processor,processor_speed,hard_drive,hard_drive_type,screen_size,screen_type,screen_resolution,touch_screen,price
+מחשב נייד Asus ZenBook Pro 15 UX582LR-H2017T אסוס,Asus,NaN,2.34,Windows  10,32.0,Intel Core i7,2200.0,NaN,NaN,15.6,OLED,3840x2160,1.0,13990
+מחשב נייד Dell XPS 17 9720 XP-RD33-13530 דל,Dell,NaN,2.51,NaN,64.0,Intel Core i7,2700.0,NaN,NaN,17.0,LCD,1920x1200,0.0,14090
+מחשב נייד HP ZBook Power G9 69Q22EA,HP,NaN,NaN,Windows 10 PRO,32.0,Intel Core i9,2900.0,NaN,NaN,15.6,IPS,3840x2160,1.0,10590
+מחשב נייד Dell XPS 15 XPS15-9221 דל,Dell,NaN,2.05,Windows 10 PRO,32.0,Intel Core i9,2500.0,NaN,NaN,15.6,LCD,3840X2400,1.0,15790
+מחשב נייד Dell XPS 13 Plus 9320 XP-RD33-13663 דל,Dell,NaN,1.26,NaN,32.0,Intel Core i7,NaN,NaN,NaN,13.4,LCD,3840X2400,1.0,10950
+מחשב נייד Asus ROG Strix SCAR 15 G533QS-HF119T אסוס,Asus,NaN,2.3,Windows  10,32.0,AMD Ryzen 7,3200.0,NaN,NaN,15.6,IPS,1920x1080,0.0,13149
+מחשב נייד Lenovo Legion 7 16ITHg6 82K6004JIV לנובו,Lenovo,NaN,2.5,ללא,32.0,Intel Core i9,3300.0,NaN,NaN,16.0,IPS,2560x1600,0.0,14190
+מחשב נייד HP ZBook Studio G8 62T23EA,HP,NaN,1.79,NaN,32.0,Intel Core i7,2500.0,1000.0,SSD,15.6,LCD,1920x1080,0.0,12150
+מחשב נייד Lenovo ThinkPad X1 Yoga Gen 7 21CD0060IV לנובו,Lenovo,NaN,1.38,NaN,32.0,Intel Core i7,NaN,2000.0,SSD,14.0,OLED,3840X2400,1.0,14437
+מחשב נייד Dell Precision 7670 PM-RD33-13728 דל,Dell,NaN,NaN,NaN,32.0,Intel Core i9,NaN,NaN,NaN,16.0,LCD,1920x1200,0.0,14990
+מחשב נייד Lenovo ThinkPad T15g Gen 2 20YS000DIV לנובו,Lenovo,NaN,2.87,Windows 10 PRO,32.0,Intel Core i7,2300.0,NaN,NaN,15.6,IPS,3840x2160,0.0,12445
+מחשב נייד Lenovo ThinkPad P16 Gen 1 21D6003TIV לנובו,Lenovo,NaN,NaN,NaN,32.0,Intel Core i9,NaN,NaN,NaN,16.0,IPS,2560x1600,0.0,15261
+מחשב נייד HP ZBook Studio G8 314G8EA,HP,NaN,1.79,Windows 10 PRO,32.0,Intel Core i7,2500.0,NaN,NaN,15.6,LCD,3840x2160,0.0,13445
+מחשב נייד Lenovo ThinkPad P1 Gen 5 21DC000QIV לנובו,Lenovo,NaN,1.86,NaN,32.0,Intel Core i7,NaN,NaN,NaN,16.0,IPS,3840X2400,1.0,13518
+מחשב נייד Dell Precision 7560 PM-RD33-13038 דל,Dell,NaN,2.45,Windows 10 PRO,32.0,Intel Core i9,2600.0,NaN,NaN,15.6,LCD,1920x1080,0.0,14659
+מחשב נייד Dell XPS17 XPS17-9542 דל,Dell,NaN,2.51,NaN,32.0,Intel Core i7,2300.0,1000.0,SSD,17.3,LCD,3840X2400,1.0,13839
+מחשב נייד Dell Precision 5570 PM-RD33-13701 דל,Dell,NaN,NaN,Windows 10 PRO,32.0,Intel Core i7,NaN,NaN,NaN,15.6,LCD,1920x1200,0.0,12770
+מחשב נייד Microsoft Surface Laptop Studio i7 32GB 1TB מיקרוסופט,Microsoft,NaN,1.82,NaN,32.0,Intel Core i7,3300.0,NaN,NaN,NaN,NaN,NaN,1.0,17170
+מחשב נייד Dell Precision M7760 M7760-9600 דל,Dell,NaN,3.01,Windows 10 PRO,32.0,Intel Core i9,2600.0,1000.0,SSD,17.3,LCD,1920x1080,0.0,14495
+מחשב נייד Asus ROG Strix Scar 17 SE G733CX-LL048W אסוס,Asus,NaN,NaN,NaN,32.0,Intel Core i9,NaN,NaN,NaN,17.3,LCD,2560x1440,0.0,18450
+מחשב נייד Asus ROG Strix Scar 15 G533ZX-LN086 אסוס,Asus,NaN,NaN,NaN,NaN,NaN,2900.0,NaN,NaN,NaN,NaN,NaN,NaN,15191
+מחשב נייד HP ZBook Fury 16 G9 62U96EA,HP,NaN,2.39,Windows 10 PRO,32.0,Intel Core i7,NaN,NaN,NaN,16.0,IPS,1920x1200,0.0,11964
+מחשב נייד Asus ROG Zephyrus Duo 15 SE GX551QS-HF241R אסוס,Asus,NaN,2.48,Windows 10 PRO,32.0,AMD Ryzen 9,3300.0,NaN,NaN,15.6,IPS,1920x1080,0.0,16975
+מחשב נייד Dell Precision 5560 PM-RD33-12855 דל,Dell,NaN,1.84,Windows 10 PRO,32.0,Intel Core i9,2600.0,NaN,NaN,15.6,LCD,1920x1200,0.0,12349
+מחשב נייד Dell Precision 7670 PM-RD33-13727 דל,Dell,NaN,NaN,NaN,32.0,Intel Core i9,NaN,NaN,NaN,16.0,LED,1920x1200,0.0,16990
+מחשב נייד Lenovo ThinkPad X1 Extreme Gen 3 20TK000QIV לנובו,Lenovo,NaN,1.7,Windows 10 PRO,32.0,Intel Core i9,2400.0,NaN,NaN,15.6,OLED,3840x2160,1.0,14060
+מחשב נייד Dell Precision 7560 PM-RD33-12848 דל,Dell,NaN,3.01,Windows 10 PRO,16.0,Intel Core i9,2600.0,1000.0,SSD,17.3,LCD,1920x1080,0.0,13290
+מחשב נייד Lenovo ThinkPad P15 Gen 2 20YQ001CIV לנובו,Lenovo,NaN,2.87,Windows 10 PRO,32.0,Intel Core i9,2600.0,NaN,NaN,15.6,IPS,3840x2160,0.0,13490
+מחשב נייד Asus Zephyrus S17 GX703HS-KF035R אסוס,Asus,NaN,2.6,Windows 10 PRO,32.0,Intel Core i9,2500.0,NaN,NaN,17.3,LCD,3840x2160,0.0,21990
+מחשב נייד Lenovo ThinkPad X1 Extreme Gen 5 21DE002JIV לנובו,Lenovo,NaN,NaN,NaN,32.0,Intel Core i9,NaN,NaN,NaN,16.0,IPS,3840X2400,0.0,18979
+מחשב נייד Panasonic Toughbook CF-31 פנסוניק,Panasonic,NaN,NaN,"Windows  10, Windows 10 PRO",4.0,Intel Core i5,NaN,500.0,NaN,13.1,NaN,NaN,1.0,14290
+מחשב נייד Lenovo ThinkPad P16 Gen 1 21D6003WIV לנובו,Lenovo,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,16214
+מחשב נייד Lenovo ThinkPad X1 Carbon Gen 10 21CB009DIV לנובו,Lenovo,NaN,1.12,NaN,32.0,Intel Core i7,NaN,NaN,NaN,14.0,IPS,1920x1200,1.0,11990
+מחשב נייד Lenovo ThinkPad P15 Gen 2 20YQ000CIV לנובו,Lenovo,NaN,2.87,Windows 10 PRO,32.0,Intel Core i9,2600.0,1000.0,SSD,15.6,IPS,3840x2160,0.0,14752
+מחשב נייד Asus ROG Strix Scar 17 G733ZX-KH097W אסוס,Asus,NaN,2.9,NaN,64.0,Intel Core i9,NaN,1000.0,SSD,17.3,LCD,1920x1080,0.0,17289
+מחשב נייד Dell Precision M7560 M7560-9101 דל,Dell,NaN,2.45,Windows 10 PRO,32.0,Intel Core i9,2600.0,1000.0,SSD,15.6,LCD,1920x1080,0.0,13033
+מחשב נייד HP ZBook Fury G9 62V42EA,HP,NaN,2.39,Windows 10 PRO,32.0,Intel Core i7,NaN,NaN,NaN,16.0,IPS,1920x1200,0.0,11990
+מחשב נייד Asus ProArt StudioBook Pro 16 OLED W7600H5A-L2014X אסוס,Asus,NaN,2.4,NaN,64.0,Intel Core i7,2300.0,NaN,NaN,16.0,OLED,3840x2160,0.0,16967
+מחשב נייד Dell XPS 15 9510 XP-RD33-13128 דל,Dell,NaN,2.01,Windows 10 PRO,32.0,Intel Core i9,2500.0,NaN,NaN,15.6,OLED,3456X2160,1.0,13959
+מחשב נייד Lenovo Legion 7 16ITHg6 82K6004CIV לנובו,Lenovo,NaN,2.5,NaN,32.0,Intel Core i9,3300.0,NaN,NaN,16.0,IPS,2560x1600,0.0,14689
+מחשב נייד HP ZBook Fury 15 G8 4A6A8EA,HP,NaN,NaN,Windows 10 PRO,32.0,Intel Core i9,2500.0,NaN,NaN,17.3,LCD,3840x2160,0.0,16211
+מחשב נייד Lenovo ThinkPad T15g Gen 2 20YS0009IV לנובו,Lenovo,NaN,2.87,Windows 10 PRO,16.0,Intel Core i9,2600.0,NaN,NaN,15.6,IPS,1920x1080,1.0,15188
+מחשב נייד Lenovo ThinkPad P1 Gen 5 21DC0010IV לנובו,Lenovo,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,22455
+מחשב נייד Lenovo ThinkPad P53 20QN0007IV לנובו,Lenovo,NaN,2.5,Windows  10,32.0,Intel Core i7,2600.0,1000.0,NaN,15.6,IPS,3840x2160,0.0,15472
+מחשב נייד Asus ROG Zephyrus Duo 16 GX650RX-LO183W אסוס,Asus,NaN,2.6,NaN,64.0,AMD Ryzen 9,3300.0,NaN,NaN,16.0,LCD,2560x1600,0.0,20290
+מחשב נייד Asus ROG Strix Scar 17 SE G733CX-LL042W אסוס,Asus,NaN,NaN,NaN,64.0,Intel Core i9,NaN,NaN,NaN,17.3,LCD,2560x1440,0.0,22793
+מחשב נייד Lenovo Legion Pro 7 16IRX8H 82WQ004FIV לנובו,Lenovo,NaN,NaN,NaN,32.0,Intel Core i9,NaN,NaN,NaN,16.0,IPS,2560x1600,0.0,15350
+מחשב נייד Asus ROG Strix G18 G814JI-N6093 אסוס,Asus,NaN,NaN,ללא,32.0,Intel Core i9,NaN,NaN,NaN,NaN,LCD,2560x1600,0.0,11282

@@ -1,0 +1,49 @@
+name,company,date,weight,OS,ram,processor,processor_speed,hard_drive,hard_drive_type,screen_size,screen_type,screen_resolution,touch_screen,price
+מחשב נייד Lenovo Yoga Slim 6 14IRP8 82WV0043IV לנובו,Lenovo,NaN,1.32,NaN,16.0,Intel Core i7,NaN,NaN,NaN,14.0,IPS,NaN,0.0,6290
+מחשב נייד Lenovo Legion Pro 7 16IRX8H 82WQ004CIV לנובו,Lenovo,NaN,NaN,NaN,32.0,Intel Core i9,NaN,NaN,NaN,16.0,IPS,2560x1600,0.0,16829
+מחשב נייד Asus Zenbook 14X OLED UX3404VC-M9026W אסוס,Asus,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,7728
+מחשב נייד Apple MacBook Pro 14 M2 Pro Z17G001NF אפל,Apple,NaN,1.6,MacOS,16.0,NaN,NaN,NaN,NaN,NaN,LCD,NaN,0.0,9808
+מחשב נייד Asus TUF Gaming F15 FX507ZC4-HN087 אסוס,Asus,NaN,2.2,ללא,16.0,Intel Core i5,NaN,NaN,NaN,15.6,LED,1920x1080,0.0,3786
+מחשב נייד Lenovo IdeaPad Gaming 3 15IAH7 82S9012TIV לנובו,Lenovo,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3936
+מחשב נייד Acer Aspire 5 15 A515-58M-7645 NX.KHEEC.003 אייסר,Acer,NaN,1.77,NaN,16.0,Intel Core i7,NaN,NaN,NaN,15.6,IPS,1920x1080,0.0,3889
+מחשב נייד HP Victus Gaming 15-fa1021nj 800J6EA,HP,NaN,NaN,ללא,16.0,Intel Core i5,NaN,NaN,NaN,15.6,IPS,1920x1080,0.0,4830
+מחשב נייד HP ZBook Firefly G9 525B8EA,HP,NaN,1.8,Windows 10 PRO,16.0,Intel Core i7,3500.0,NaN,NaN,16.0,IPS,1920x1200,0.0,6033
+מחשב נייד Asus ROG Strix SCAR G634JZ-N4016W אסוס,Asus,NaN,2.5,NaN,32.0,Intel Core i9,NaN,NaN,NaN,16.0,LED,2560x1600,0.0,13790
+מחשב נייד HP Pavilion x360 14-ek1004nj 7Z8H7EA,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,4885
+מחשב נייד Asus X515EA-EJ3870W אסוס,Asus,NaN,1.8,NaN,8.0,Intel Core i3,NaN,NaN,NaN,15.6,LCD,1920x1080,0.0,2190
+מחשב נייד Asus ExpertBook B1 B1500CEAE-BQ3089X אסוס,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3449
+מחשב נייד Asus Zenbook Pro 14 Duo OLED UX8402VV-P1021W אסוס,Asus,NaN,1.75,NaN,32.0,Intel Core i9,NaN,NaN,NaN,14.5,OLED,2880X1800,1.0,12890
+מחשב נייד Asus TUF Gaming F15 FX507VU4-LP075 אסוס,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,6884
+מחשב נייד Asus TUF Gaming F15 FX507VU4-LP001 אסוס,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,6590
+מחשב נייד Asus TUF Gaming F15 FX507VU4-LP004 אסוס,Asus,NaN,2.2,ללא,16.0,Intel Core i7,NaN,NaN,NaN,15.6,LCD,1920x1080,0.0,6599
+מחשב נייד Lenovo Legion Pro 7 16IRX8 82WR0019IV לנובו,Lenovo,NaN,2.5,NaN,16.0,Intel Core i9,NaN,NaN,NaN,16.0,IPS,2560x1600,0.0,10646
+מחשב נייד Asus VivoBook 14 X1404ZA-NK086W אסוס,Asus,NaN,1.4,NaN,8.0,Intel Core i3,NaN,NaN,NaN,14.0,LCD,1920x1080,0.0,2007
+מחשב נייד EliteBook 830 G9‎ 6F611EA HP,HP,NaN,1.27,NaN,16.0,Intel Core i7,NaN,NaN,NaN,13.3,IPS,1920x1200,0.0,5990
+מחשב נייד Apple MacBook Pro 16 Z177000T4 אפל,Apple,NaN,2.15,MacOS,16.0,NaN,NaN,NaN,NaN,NaN,LCD,NaN,0.0,10232
+מחשב נייד Apple MacBook Pro 16 Z178000N6 אפל,Apple,NaN,2.1,MacOS,16.0,NaN,NaN,NaN,NaN,NaN,LCD,NaN,0.0,11045
+מחשב נייד Dell Mobile Precision 3571 M3571-9558 דל,Dell,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11081
+מחשב נייד Apple MacBook Pro 16 Z175000NA אפל,Apple,NaN,2.15,MacOS,16.0,NaN,NaN,NaN,NaN,NaN,LCD,NaN,0.0,11045
+מחשב נייד Asus ROG Strix SCAR 15 G533ZM-LN125 אסוס,Asus,NaN,2.3,ללא,16.0,Intel Core i7,NaN,NaN,NaN,15.6,LCD,2560x1440,0.0,6647
+מחשב נייד Lenovo IdeaPad 3 15ITL6 82H8039FIV לנובו,Lenovo,NaN,1.65,ללא,8.0,Intel Core i5,NaN,NaN,NaN,15.6,LED,1920x1080,0.0,2029
+מחשב נייד Apple MacBook Pro 16 M2 Pro MNW83HB/A MNWC3HB/A אפל,Apple,NaN,2.1,MacOS,16.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.0,10232
+מחשב נייד Apple MacBook Pro 16 M2 Pro MNW93HB/A MNWD3HB/A אפל,Apple,NaN,2.1,MacOS,16.0,NaN,NaN,NaN,NaN,NaN,LED,NaN,0.0,11045
+מחשב נייד Asus TUF Gaming F15 FX507VV4-LP060 אסוס,Asus,NaN,2.2,ללא,16.0,Intel Core i7,NaN,NaN,NaN,15.6,LCD,1920x1080,0.0,6779
+מחשב נייד Asus TUF Gaming F15 FX507ZU4-LP085 אסוס,Asus,NaN,2.2,ללא,32.0,Intel Core i7,NaN,NaN,NaN,15.6,LCD,1920x1080,0.0,5983
+מחשב נייד Asus TUF Gaming F15 FX507ZU4-LP057 אסוס,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5378
+מחשב נייד Asus ROG Zephyrus Duo 16 GX650PZ-NM037W אסוס,Asus,NaN,NaN,NaN,64.0,AMD Ryzen 9,NaN,NaN,NaN,16.0,IPS,2560x1600,0.0,20283
+מחשב נייד Asus ROG Zephyrus Duo 16 GX650PY-NM051W אסוס,Asus,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,23996
+מחשב נייד Lenovo Legion Pro 7 16IRX8 82WR001AIV לנובו,Lenovo,NaN,2.5,NaN,32.0,Intel Core i9,NaN,NaN,NaN,16.0,IPS,2560x1600,0.0,11456
+מחשב נייד Asus VivoBook 14 X1404ZA-NK087W אסוס,Asus,NaN,1.4,NaN,8.0,Intel Core i3,NaN,NaN,NaN,14.0,LCD,1920x1080,0.0,2306
+מחשב נייד Asus VivoBook 14 X1404ZA-NK112 אסוס,Asus,NaN,1.4,ללא,16.0,Intel Core i5,NaN,NaN,NaN,14.0,LCD,1920x1080,0.0,2509
+מחשב נייד Asus Vivobook 15 K513EA-L12246W אסוס,Asus,NaN,1.8,NaN,16.0,Intel Core i7,2800.0,NaN,NaN,15.6,OLED,1920x1080,0.0,3499
+מחשב נייד Lenovo Legion Y720-15IKB 80VR001BUS לנובו,Lenovo,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,4820
+מחשב נייד HP ZBook Power G9 69Q59EA,HP,NaN,NaN,Windows 10 PRO,32.0,Intel Core i7,3500.0,NaN,NaN,15.6,IPS,1920x1080,1.0,8990
+מחשב נייד Dell Latitude 7330 LT-RD33-13909 דל,Dell,NaN,0.96,Windows 10 PRO,32.0,Intel Core i7,NaN,NaN,NaN,13.3,LCD,1920x1080,0.0,7890
+מחשב נייד Dell Inspiron 5420 IN-RD33-13907 דל,Dell,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,4909
+מחשב נייד Acer Aspire 5 NX.K5NEC.002 אייסר,Acer,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,2709
+מחשב נייד Acer Nitro 5 NH.QFSEC.002 אייסר,Acer,NaN,2.5,ללא,8.0,Intel Core i7,3500.0,1000.0,SSD,15.6,LCD,1920x1080,0.0,9829
+מחשב נייד Acer Nitro 5 NH.QFJEC.003 אייסר,Acer,NaN,2.5,ללא,16.0,Intel Core i5,3300.0,512.0,SSD,15.6,LCD,1920x1080,0.0,5679
+מחשב נייד Asus VivoBook 15 X513EA-BQ3016 אסוס,Asus,NaN,1.8,ללא,8.0,Intel Core i5,2400.0,512.0,SSD,15.6,LCD,1920x1080,0.0,2683
+מחשב נייד Lenovo Legion 5 Pro 16ACH6H 82JQ00S5IV לנובו,Lenovo,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,7845
+מחשב נייד Lenovo Legion 5 Pro 16ACH6H 82JQ00M5IV לנובו,Lenovo,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,6844
+מחשב נייד Asus VivoBook 14 K413EA-EK1957 אסוס,Asus,NaN,1.4,ללא,16.0,Intel Core i5,2400.0,512.0,SSD,14.0,LCD,1920x1080,0.0,2813

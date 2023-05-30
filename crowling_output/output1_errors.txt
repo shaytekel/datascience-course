@@ -1,0 +1,36 @@
+Extracting_params:: Failed. [Parameter: price, Link: /m/102782]
+'NoneType' object has no attribute 'get'
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/103344]
+invalid literal for int() with base 10: '2300MHz'
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/152066]
+invalid literal for int() with base 10: '2700MHz'
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/128033]
+invalid literal for int() with base 10: '3200MHz'
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/136343]
+invalid literal for int() with base 10: '3200MHz'
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/181582]
+invalid literal for int() with base 10: '2700MHz
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/116309]
+invalid literal for int() with base 10: '2300MHz'
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/108267]
+invalid literal for int() with base 10: '3200MHz'
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/151703]
+invalid literal for int() with base 10: '2700MHz'
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/154544]
+invalid literal for int() with base 10: '2700MHz'
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/133407]
+invalid literal for int() with base 10: '3200MHz'
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/181611]
+invalid literal for int() with base 10: '2700MHz'
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/145994]
+invalid literal for int() with base 10: '3200MHz'
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/149932]
+invalid literal for int() with base 10: '2300MHz'
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/143522]
+invalid literal for int() with base 10: '2300MHz'
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/130846]
+invalid literal for int() with base 10: '3200MHz'
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/137714]
+invalid literal for int() with base 10: '3200MHz'
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/81028]
+invalid literal for int() with base 10: '2300MHz'

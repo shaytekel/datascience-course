@@ -1,0 +1,49 @@
+name,company,date,weight,OS,ram,processor,processor_speed,hard_drive,hard_drive_type,screen_size,screen_type,screen_resolution,touch_screen,price
+מחשב נייד Lenovo IdeaPad 5 Pro 16ACH6 82L5003AIV לנובו,Lenovo,NaN,1.9,ללא,16.0,AMD Ryzen 7,3200.0,512.0,SSD,16.0,IPS,2560x1600,0.0,4350
+מחשב נייד HP ZBook Studio G9 62U99EA,HP,NaN,1.73,Windows 10 PRO,32.0,Intel Core i7,NaN,NaN,NaN,16.0,IPS,1920x1200,1.0,10701
+מחשב נייד Lenovo ThinkPad X1 Extreme Gen 5 21DE0028IV לנובו,Lenovo,NaN,NaN,NaN,32.0,Intel Core i7,3500.0,NaN,NaN,16.0,IPS,3840X2400,0.0,12098
+מחשב נייד Lenovo Legion 5 Pro 16ACH6H 82JQ00A1IV לנובו,Lenovo,NaN,2.45,Windows  10,16.0,AMD Ryzen 7,3200.0,1000.0,SSD,16.0,IPS,2560x1600,0.0,7590
+מחשב נייד Lenovo ThinkBook 13s G2 ITL 20V9003CIV לנובו,Lenovo,NaN,1.26,Windows 10 PRO,16.0,Intel Core i7,2800.0,1000.0,SSD,13.3,IPS,2560x1600,0.0,3905
+מחשב נייד HP ProBook 430 G8 27J05EA,HP,NaN,1.28,Windows  10,16.0,Intel Core i5,2400.0,512.0,SSD,13.3,IPS,1920x1080,0.0,4148
+מחשב נייד Lenovo IdeaPad 5 14ITL05 82FE0069IV לנובו,Lenovo,NaN,1.38,Windows  10,16.0,Intel Core i5,2400.0,1000.0,SSD,14.0,IPS,1920x1080,0.0,4790
+מחשב נייד Lenovo IdeaPad Yoga 9 14ITL5 82BG00E3IV לנובו,Lenovo,NaN,1.44,NaN,16.0,Intel Core i7,3000.0,NaN,NaN,14.0,IPS,3840x2160,1.0,5500
+מחשב נייד Lenovo ThinkPad E15 20RD0015IV לנובו,Lenovo,NaN,1.9,Windows  10,8.0,Intel Core i7,1800.0,256.0,SSD,15.6,IPS,1920x1080,0.0,3729
+מחשב נייד Dell XPS 15 9520 XP-RD33-13669 דל,Dell,NaN,2.05,NaN,32.0,Intel Core i7,3500.0,NaN,NaN,15.6,LCD,1920x1200,0.0,11208
+מחשב נייד Dell Vostro 5410 V5410-5024 דל,Dell,NaN,1.44,ללא,8.0,Intel Core i5,3200.0,512.0,SSD,14.0,LCD,1920x1080,0.0,3100
+מחשב נייד Dell XPS13 9320 XPS13-8111 דל,Dell,NaN,NaN,NaN,16.0,Intel Core i7,NaN,512.0,SSD,13.4,LCD,1920x1200,0.0,8947
+מחשב נייד Dell Vostro 3510 VM-RD09-13377 דל,Dell,NaN,1.69,ללא,8.0,Intel Core i5,1000.0,NaN,NaN,15.6,LCD,1920x1080,0.0,2176
+מחשב נייד Lenovo IdeaPad Flex 5 15ITL05 82HT009CIV לנובו,Lenovo,NaN,1.8,NaN,16.0,Intel Core i7,2800.0,1000.0,SSD,15.6,IPS,3840x2160,1.0,5154
+מחשב נייד HP ZBook Studio G8 4F8H0EA,HP,NaN,1.79,Windows 10 PRO,32.0,Intel Core i9,2600.0,1000.0,SSD,15.6,LCD,3840x2160,0.0,12003
+מחשב נייד HP ENVY 14-eb0005nj 307Y8EA,HP,NaN,1.49,Windows  10,16.0,Intel Core i7,2800.0,512.0,SSD,14.0,IPS,1920x1080,0.0,8289
+מחשב נייד Dell Inspiron 3511 N3511-7046 דל,Dell,NaN,1.73,ללא,16.0,Intel Core i7,2800.0,NaN,NaN,15.6,LCD,1920x1080,0.0,3499
+מחשב נייד HP EliteBook 850 G7 229J8EA,HP,NaN,1.67,Windows 10 PRO,16.0,Intel Core i7,1100.0,512.0,SSD,13.3,LCD,1920x1080,0.0,6790
+מחשב נייד Dell Vostro 3510 VM-RD09-13487 דל,Dell,NaN,1.69,ללא,16.0,Intel Core i7,2800.0,512.0,SSD,15.6,LCD,1920x1080,0.0,3000
+מחשב נייד Dell Latitude 5520 L5520-8108 דל,Dell,NaN,1.59,Windows 10 PRO,16.0,Intel Core i7,2800.0,NaN,NaN,15.6,LCD,1920x1080,0.0,5371
+מחשב נייד Asus ExpertBook B1 B1400CEAE-EK4565 אסוס,Asus,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3629
+מחשב נייד Dell Inspiron 5402 IN-RD33-13443 דל,Dell,NaN,1.42,NaN,8.0,Intel Core i5,2400.0,512.0,SSD,14.0,LED,1920x1080,0.0,3290
+מחשב נייד HP ZBook Firefly 14 G7 111B3EA,HP,NaN,1.41,Windows 10 PRO,8.0,Intel Core i5,1600.0,256.0,SSD,14.0,LCD,1920x1080,0.0,4923
+מחשב נייד Lenovo Legion 5 16ITH6 82JF003AIV לנובו,Lenovo,NaN,2.3,NaN,16.0,Intel Core i7,2300.0,NaN,NaN,16.0,IPS,2560x1600,0.0,6340
+מחשב נייד Apple MacBook Air 13 Z15S-16-HB Z15W-16-HB Z15Y-16-HB Z160-16-HB אפל,Apple,NaN,1.24,MacOS,16.0,NaN,NaN,NaN,NaN,NaN,LED,NaN,0.0,5847
+מחשב נייד HP 15s-fq5030nj 7C471EA,HP,NaN,1.69,NaN,16.0,Intel Core i5,3300.0,NaN,NaN,15.6,IPS,1920x1080,0.0,3390
+מחשב נייד Asus Vivobook 15 X513EA-EJ3044 אסוס,Asus,NaN,NaN,NaN,8.0,Intel Core i5,2400.0,NaN,NaN,15.6,NaN,NaN,NaN,2209
+מחשב נייד Lenovo ThinkPad P15v Gen 3 21D8000NIV לנובו,Lenovo,NaN,NaN,NaN,16.0,Intel Core i7,NaN,NaN,NaN,15.6,IPS,1920x1080,0.0,8928
+מחשב נייד Dell Latitude 7420 LT-RD33-12941 דל,Dell,NaN,1.33,Windows 10 PRO,8.0,Intel Core i5,2400.0,NaN,NaN,14.0,LCD,1920x1080,0.0,4588
+מחשב נייד Lenovo Yoga 7 16IAP7 82QG003VIV לנובו,Lenovo,NaN,1.98,NaN,16.0,Intel Core i7,NaN,NaN,NaN,16.0,IPS,2560x1600,1.0,5530
+מחשב נייד Lenovo ThinkBook 14 G2 20VD000AIV לנובו,Lenovo,NaN,1.4,Windows 10 PRO,8.0,Intel Core i5,2400.0,256.0,SSD,14.0,IPS,1920x1080,0.0,2909
+מחשב נייד Dell Vostro 3501 VM-RD09-12244 דל,Dell,NaN,1.84,Windows  10,8.0,Intel Core i3,1200.0,256.0,SSD,15.6,LCD,1920x1080,0.0,2387
+מחשב נייד Lenovo ThinkPad T14s Gen 3 21BR0018IV לנובו,Lenovo,NaN,1.21,NaN,16.0,Intel Core i7,NaN,NaN,NaN,14.0,LCD,1920x1200,0.0,7388
+מחשב נייד Asus VivoBook 15 X1502ZA-BQ292 אסוס,Asus,NaN,1.7,ללא,8.0,Intel Core i5,3300.0,NaN,NaN,15.6,LCD,1920x1080,0.0,2090
+מחשב נייד HP 255 G7 7DB74EA,HP,NaN,1.78,ללא,4.0,AMD A4,2300.0,NaN,NaN,15.6,LED,1366x768,0.0,1750
+מחשב נייד HP 240 G8 43W44EA,HP,NaN,1.47,ללא,8.0,Intel Core i5,2400.0,NaN,NaN,14.0,LCD,1920x1080,0.0,2189
+מחשב נייד HP 15s-fq5027nj 7C469EA,HP,NaN,1.69,ללא,8.0,Intel Core i5,3300.0,NaN,NaN,15.6,LCD,1920x1080,0.0,1949
+מחשב נייד Lenovo Yoga Slim 7 Pro 16IAH7 82VA0026IV לנובו,Lenovo,NaN,NaN,NaN,32.0,Intel Core i7,2700.0,NaN,NaN,16.0,IPS,2560x1600,1.0,7126
+מחשב נייד Lenovo ThinkPad L13 Clam  20R30005IV לנובו,Lenovo,NaN,1.38,Windows  10,8.0,Intel Core i5,1600.0,256.0,SSD,13.3,IPS,1920x1080,0.0,3650
+מחשב נייד Dell Vostro 3510 VM-RD09-13486 דל,Dell,NaN,1.69,NaN,16.0,Intel Core i7,2800.0,512.0,SSD,15.6,LCD,1920x1080,0.0,3544
+מחשב נייד Dell Latitude 5300 LT-RD33-11936 דל,Dell,NaN,1.24,Windows  10,8.0,Intel Core i5,1600.0,256.0,SSD,13.3,NaN,1920x1080,0.0,3920
+מחשב נייד Asus ExpertBook B1 B1400CEPE-EB0864 אסוס,Asus,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3300
+מחשב נייד HP ENVY x360 Convert 13-bd0004nj 4M154EA,HP,NaN,1.32,NaN,8.0,Intel Core i5,2400.0,NaN,NaN,13.3,OLED,1920x1080,1.0,4450
+מחשב נייד Dell Latitude 5410 LT-RD33-12118 דל,Dell,NaN,1.48,ללא,8.0,Intel Core i5,1600.0,256.0,SSD,14.0,NaN,1920x1080,0.0,3858
+מחשב נייד HP ProBook 450 G8 2X7X3EA,HP,NaN,1.74,ללא,8.0,Intel Core i7,2800.0,512.0,SSD,15.6,IPS,1920x1080,NaN,3347
+מחשב נייד Lenovo ThinkPad E14 Gen 4 21E300C7IV לנובו,Lenovo,NaN,1.64,NaN,16.0,Intel Core i7,3500.0,NaN,NaN,14.0,IPS,1920x1080,0.0,4889
+מחשב נייד Lenovo Legion 5 Pro 16ARH7H 82RG00B1IV לנובו,Lenovo,NaN,2.49,NaN,32.0,AMD Ryzen 7,3200.0,NaN,NaN,16.0,IPS,2560x1600,0.0,8831
+מחשב נייד Lenovo ThinkPad L13 Gen 2 20VH001CIV לנובו,Lenovo,NaN,1.39,Windows 10 PRO,16.0,Intel Core i7,2800.0,NaN,NaN,13.3,IPS,1920x1080,0.0,4450

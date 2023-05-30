@@ -1,0 +1,341 @@
+***  page number1 :
+laptop number1
+laptop number2
+laptop number3
+laptop number4
+laptop number5
+laptop number6
+laptop number7
+laptop number8
+laptop number9
+laptop number10
+laptop number11
+laptop number12
+laptop number13
+laptop number14
+laptop number15
+laptop number16
+laptop number17
+laptop number18
+laptop number19
+laptop number20
+laptop number21
+laptop number22
+laptop number23
+laptop number24
+laptop number25
+laptop number26
+laptop number27
+laptop number28
+laptop number29
+laptop number30
+laptop number31
+laptop number32
+laptop number33
+laptop number34
+laptop number35
+laptop number36
+laptop number37
+laptop number38
+laptop number39
+laptop number40
+laptop number41
+laptop number42
+laptop number43
+laptop number44
+laptop number45
+laptop number46
+laptop number47
+laptop number48
+write_to_csv:: dataframe was generated and saved successfully. [Page: 1]
+***********
+***  page number2 :
+laptop number49
+laptop number50
+laptop number51
+laptop number52
+laptop number53
+laptop number54
+laptop number55
+laptop number56
+laptop number57
+laptop number58
+laptop number59
+laptop number60
+laptop number61
+laptop number62
+Extracting_params:: Failed. [Parameter: price, Link: /m/102782]
+'NoneType' object has no attribute 'get'
+laptop number63
+laptop number64
+laptop number65
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/103344]
+invalid literal for int() with base 10: '2300MHz'
+laptop number66
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/152066]
+invalid literal for int() with base 10: '2700MHz'
+laptop number67
+laptop number68
+laptop number69
+laptop number70
+laptop number71
+laptop number72
+laptop number73
+laptop number74
+laptop number75
+laptop number76
+laptop number77
+laptop number78
+laptop number79
+laptop number80
+laptop number81
+laptop number82
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/128033]
+invalid literal for int() with base 10: '3200MHz'
+laptop number83
+laptop number84
+laptop number85
+laptop number86
+laptop number87
+laptop number88
+laptop number89
+laptop number90
+laptop number91
+laptop number92
+laptop number93
+laptop number94
+laptop number95
+laptop number96
+write_to_csv:: dataframe was generated and saved successfully. [Page: 2]
+***********
+***  page number3 :
+laptop number97
+laptop number98
+laptop number99
+laptop number100
+laptop number101
+laptop number102
+laptop number103
+laptop number104
+laptop number105
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/136343]
+invalid literal for int() with base 10: '3200MHz'
+laptop number106
+laptop number107
+laptop number108
+laptop number109
+laptop number110
+laptop number111
+laptop number112
+laptop number113
+laptop number114
+laptop number115
+laptop number116
+laptop number117
+laptop number118
+laptop number119
+laptop number120
+laptop number121
+laptop number122
+laptop number123
+laptop number124
+laptop number125
+laptop number126
+laptop number127
+laptop number128
+laptop number129
+laptop number130
+laptop number131
+laptop number132
+laptop number133
+laptop number134
+laptop number135
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/181582]
+invalid literal for int() with base 10: '2700MHz'
+laptop number136
+laptop number137
+laptop number138
+laptop number139
+laptop number140
+laptop number141
+laptop number142
+laptop number143
+laptop number144
+write_to_csv:: dataframe was generated and saved successfully. [Page: 3]
+***********
+***  page number4 :
+laptop number145
+laptop number146
+laptop number147
+laptop number148
+laptop number149
+laptop number150
+laptop number151
+laptop number152
+laptop number153
+laptop number154
+laptop number155
+laptop number156
+laptop number157
+laptop number158
+laptop number159
+laptop number160
+laptop number161
+laptop number162
+laptop number163
+laptop number164
+laptop number165
+laptop number166
+laptop number167
+laptop number168
+laptop number169
+laptop number170
+laptop number171
+laptop number172
+laptop number173
+laptop number174
+laptop number175
+laptop number176
+laptop number177
+laptop number178
+laptop number179
+laptop number180
+laptop number181
+laptop number182
+laptop number183
+laptop number184
+laptop number185
+laptop number186
+laptop number187
+laptop number188
+laptop number189
+laptop number190
+laptop number191
+laptop number192
+write_to_csv:: dataframe was generated and saved successfully. [Page: 4]
+***********
+***  page number5 :
+laptop number193
+laptop number194
+laptop number195
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/116309]
+invalid literal for int() with base 10: '2300MHz'
+laptop number196
+laptop number197
+laptop number198
+laptop number199
+laptop number200
+laptop number201
+laptop number202
+laptop number203
+laptop number204
+laptop number205
+laptop number206
+laptop number207
+laptop number208
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/108267]
+invalid literal for int() with base 10: '3200MHz'
+laptop number209
+laptop number210
+laptop number211
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/151703]
+invalid literal for int() with base 10: '2700MHz'
+laptop number212
+laptop number213
+laptop number214
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/154544]
+invalid literal for int() with base 10: '2700MHz'
+laptop number215
+laptop number216
+laptop number217
+laptop number218
+laptop number219
+laptop number220
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/133407]
+invalid literal for int() with base 10: '3200MHz'
+laptop number221
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/181611]
+invalid literal for int() with base 10: '2700MHz'
+laptop number222
+laptop number223
+laptop number224
+laptop number225
+laptop number226
+laptop number227
+laptop number228
+laptop number229
+laptop number230
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/145994]
+invalid literal for int() with base 10: '3200MHz'
+laptop number231
+laptop number232
+laptop number233
+laptop number234
+laptop number235
+laptop number236
+laptop number237
+laptop number238
+laptop number239
+laptop number240
+write_to_csv:: dataframe was generated and saved successfully. [Page: 5]
+***********
+***  page number6 :
+laptop number241
+laptop number242
+laptop number243
+laptop number244
+laptop number245
+laptop number246
+laptop number247
+laptop number248
+laptop number249
+laptop number250
+laptop number251
+laptop number252
+laptop number253
+laptop number254
+laptop number255
+laptop number256
+laptop number257
+laptop number258
+laptop number259
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/149932]
+invalid literal for int() with base 10: '2300MHz'
+laptop number260
+laptop number261
+laptop number262
+laptop number263
+laptop number264
+laptop number265
+laptop number266
+laptop number267
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/143522]
+invalid literal for int() with base 10: '2300MHz'
+laptop number268
+laptop number269
+laptop number270
+laptop number271
+laptop number272
+laptop number273
+laptop number274
+laptop number275
+laptop number276
+laptop number277
+laptop number278
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/130846]
+invalid literal for int() with base 10: '3200MHz'
+laptop number279
+laptop number280
+laptop number281
+laptop number282
+laptop number283
+laptop number284
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/137714]
+invalid literal for int() with base 10: '3200MHz'
+laptop number285
+laptop number286
+Extracting_params:: Failed. [Parameter: processor_speed, Link: /m/81028]
+invalid literal for int() with base 10: '2300MHz'
+laptop number287
+laptop number288
+write_to_csv:: dataframe was generated and saved successfully. [Page: 6]

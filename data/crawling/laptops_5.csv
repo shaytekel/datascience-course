@@ -1,0 +1,49 @@
+name,company,date,weight,OS,ram,processor,processor_speed,hard_drive,hard_drive_type,screen_size,screen_type,screen_resolution,touch_screen,price
+מחשב נייד HP 340S G7 2D194EA,HP,NaN,1.47,ללא,8.0,Intel Core i7,1300.0,512.0,SSD,14.0,NaN,1920x1080,0.0,3789
+מחשב נייד Lenovo Legion 5 16ITH6 82RF0084IV לנובו,Lenovo,NaN,2.49,NaN,16.0,Intel Core i7,NaN,1000.0,SSD,16.0,IPS,2560x1600,0.0,7740
+מחשב נייד Asus TUF Gaming F15 FX506HC-HN007 אסוס,Asus,NaN,2.3,ללא,16.0,Intel Core i7,NaN,512.0,SSD,15.6,LCD,1920x1080,0.0,5449
+מחשב נייד Lenovo IdeaPad 3 17IAU7 82RL004QIV לנובו,Lenovo,NaN,NaN,NaN,8.0,Intel Core i5,3300.0,NaN,NaN,17.3,IPS,1920x1080,0.0,2841
+מחשב נייד Apple MacBook Pro MYDC2HB/A אפל,Apple,NaN,1.4,MacOS,8.0,NaN,NaN,512.0,SSD,13.3,LCD,2560x1600,0.0,6189
+מחשב נייד Asus VivoBook 15 X1500EA-EJ2287 אסוס,Asus,NaN,1.8,ללא,8.0,Intel Core i5,2400.0,NaN,NaN,15.6,LCD,1920x1080,0.0,1986
+מחשב נייד Lenovo ThinkPad E15 Gen 4 21E60092IV לנובו,Lenovo,NaN,1.7,NaN,8.0,Intel Core i5,3300.0,NaN,NaN,15.6,IPS,1920x1080,0.0,3287
+מחשב נייד Lenovo ThinkPad T14 Gen 3 21AH00DTIV לנובו,Lenovo,NaN,1.32,NaN,16.0,Intel Core i5,3300.0,NaN,NaN,14.0,IPS,1920x1200,0.0,5838
+מחשב נייד HP ProBook 440 G8 59S00EA,HP,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3874
+מחשב נייד Lenovo ThinkPad L13 Gen 3 21B3000UIV לנובו,Lenovo,NaN,1.26,NaN,16.0,Intel Core i7,3500.0,NaN,NaN,13.3,IPS,1920x1200,0.0,4990
+מחשב נייד Asus ZenBook 14 UX425EA-BM295 אסוס,Asus,NaN,0.93,ללא,8.0,Intel Core i3,3000.0,256.0,SSD,14.0,LCD,1920x1080,0.0,2790
+מחשב נייד Lenovo ThinkPad L13 Gen 3 21B30018IV לנובו,Lenovo,NaN,1.26,NaN,8.0,Intel Core i5,3300.0,NaN,NaN,13.3,IPS,1920x1200,0.0,4100
+מחשב נייד Lenovo Yoga 7 16IAP7 82QG003PIV לנובו,Lenovo,NaN,1.98,NaN,16.0,Intel Core i5,3300.0,512.0,SSD,16.0,IPS,2560x1600,1.0,4818
+מחשב נייד HP 240 G7 1F3S2EA,HP,NaN,1.52,Windows 10 PRO,8.0,Intel Core i7,1300.0,256.0,SSD,14.0,LCD,1920x1080,0.0,3279
+מחשב נייד HP Probook 450 G8 2R9D4EA,HP,NaN,1.74,Windows 10 PRO,8.0,Intel Core i5,2400.0,512.0,SSD,15.6,IPS,1920x1080,0.0,3100
+מחשב נייד HP ZBOOK Firefly 14 G8 2C9Q9EA,HP,NaN,1.41,Windows 10 PRO,16.0,Intel Core i5,NaN,NaN,NaN,14.0,IPS,1920x1080,0.0,5662
+מחשב נייד Acer Aspire 5 14 A514-54-57Y3 NX.A28EC.001 אייסר,Acer,NaN,1.7,Windows  10,8.0,Intel Core i5,2400.0,512.0,SSD,14.0,LCD,1920x1080,0.0,3450
+מחשב נייד Asus VivoBook S14 K3402ZA-KM335W אסוס,Asus,NaN,1.5,NaN,16.0,Intel Core i7,3500.0,NaN,NaN,14.0,OLED,2880X1800,0.0,4602
+מחשב נייד Asus VIvoBook Pro 15 K6500ZH-HN040W אסוס,Asus,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5060
+מחשב נייד Lenovo Legion 5 15IAH7 82RC0058IV לנובו,Lenovo,NaN,2.35,NaN,16.0,Intel Core i5,3300.0,NaN,NaN,15.6,IPS,2560x1440,0.0,5525
+מחשב נייד Acer TravelMate P2 NX.VLNEC.00K אייסר,Acer,NaN,1.8,Windows  10,8.0,Intel Core i5,1600.0,512.0,SSD,15.6,LCD,1920x1080,0.0,2499
+מחשב נייד Gigabyte G5 15 G5-ME-51EE213SD,Gigabyte,NaN,1.9,ללא,16.0,Intel Core i5,NaN,NaN,NaN,15.6,LCD,NaN,0.0,3690
+מחשב נייד Asus X415EA-EB210T אסוס,Asus,NaN,1.5,Windows  10,8.0,Intel Core i5,2400.0,512.0,SSD,14.0,LCD,1920x1080,0.0,3489
+מחשב נייד Asus TUF Dash F15 FX517ZR-HN014 אסוס,Asus,NaN,2.0,ללא,16.0,Intel Core i7,3500.0,NaN,NaN,15.6,LCD,1920x1080,0.0,6859
+מחשב נייד Asus X515JA-EJ042T אסוס,Asus,NaN,1.7,Windows  10,8.0,Intel Core i5,1000.0,512.0,SSD,15.6,LCD,1920x1080,0.0,2848
+מחשב נייד Lenovo ThinkPad E14 Gen 4 21E300CAIV לנובו,Lenovo,NaN,1.64,NaN,16.0,Intel Core i5,3300.0,NaN,NaN,14.0,IPS,1920x1080,0.0,3699
+מחשב נייד Asus VIvoBook Pro 15 M3500QC-L1337W אסוס,Asus,NaN,1.65,NaN,8.0,AMD Ryzen 5,3500.0,NaN,NaN,15.6,OLED,1920x1080,0.0,4290
+מחשב נייד Asus VivoBook Pro 14 M3401QC-KM030W אסוס,Asus,NaN,1.45,NaN,16.0,AMD Ryzen 7,NaN,NaN,NaN,14.0,OLED,2880X1800,0.0,4490
+מחשב נייד Lenovo Legion 5 Pro 16ITH6 82JF0034IV לנובו,Lenovo,NaN,2.3,NaN,16.0,Intel Core i5,NaN,NaN,NaN,16.0,LCD,2560x1600,0.0,5498
+מחשב נייד Lenovo IdeaPad 5 14ITL05 82FE006EIV לנובו,Lenovo,NaN,1.38,ללא,8.0,Intel Core i5,2400.0,512.0,SSD,14.0,IPS,1920x1080,0.0,3090
+מחשב נייד Asus ZenBook 14 UX3402ZA-KM164W אסוס,Asus,NaN,1.39,NaN,8.0,Intel Core i5,NaN,NaN,NaN,14.0,OLED,2880X1800,0.0,3901
+מחשב נייד Lenovo Yoga Slim 7 Pro 14IHU5O 82NH005HIV לנובו,Lenovo,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5561
+מחשב נייד Dell Vostro 5502 VM-RD09-12515 דל,Dell,NaN,1.64,ללא,16.0,Intel Core i7,2800.0,512.0,SSD,15.6,LCD,1920x1080,0.0,4885
+מחשב נייד Lenovo IdeaPad 3 15IAU7 82RK00CXIV לנובו,Lenovo,NaN,NaN,NaN,8.0,Intel Core i5,3300.0,NaN,NaN,15.6,LCD,1920x1080,0.0,2389
+מחשב נייד Lenovo ThinkPad T14 Gen 3 21AH00F6IV לנובו,Lenovo,NaN,1.32,NaN,32.0,Intel Core i7,NaN,NaN,NaN,14.0,IPS,1920x1200,0.0,7049
+מחשב נייד Lenovo IdeaPad Flex 5 14IAU7 82R7009TIV לנובו,Lenovo,NaN,1.5,NaN,16.0,Intel Core i7,3500.0,NaN,NaN,14.0,IPS,1920x1200,1.0,4105
+מחשב נייד Lenovo Yoga Slim 7 13ITL5 82CU0032IV לנובו,Lenovo,NaN,1.21,Windows  10,8.0,Intel Core i7,2800.0,256.0,SSD,13.3,IPS,2560x1600,0.0,4790
+מחשב נייד Lenovo ThinkBook 16p G2 ACH 20YM002UIV לנובו,Lenovo,NaN,1.99,NaN,16.0,AMD Ryzen 7,NaN,512.0,SSD,16.0,IPS,2560x1600,0.0,4890
+מחשב נייד HP 250 G8 2X7L1EA,HP,NaN,1.74,Windows 10 PRO,8.0,Intel Core i7,2800.0,512.0,SSD,15.6,LCD,1920x1080,0.0,3176
+מחשב נייד Apple MacBook Pro 14 MKGQ3HB/A אפל,Apple,NaN,1.6,MacOS,16.0,NaN,NaN,1000.0,SSD,NaN,LCD,NaN,0.0,8695
+מחשב נייד HP 250 G9 6S6V4EA,HP,NaN,1.74,ללא,8.0,Intel Core i7,3500.0,NaN,NaN,15.6,LCD,1920x1080,0.0,2494
+מחשב נייד HP 15s-fq2035nj 308A9EA,HP,NaN,1.69,ללא,8.0,Intel Core i3,3000.0,256.0,SSD,15.6,LCD,1920x1080,0.0,1817
+מחשב נייד Lenovo IdeaPad 5 Pro 14ITL6 82L300HNIV לנובו,Lenovo,NaN,1.38,NaN,8.0,Intel Core i5,2400.0,NaN,NaN,14.0,IPS,2880X1800,0.0,3279
+מחשב נייד Lenovo IdeaPad 3 15ITL6 82H800DAIV לנובו,Lenovo,NaN,1.65,ללא,8.0,Intel Core i5,2400.0,256.0,SSD,15.6,LCD,1920x1080,0.0,2079
+מחשב נייד Lenovo ThinkPad L13 Gen 3 21B3001DIV לנובו,Lenovo,NaN,1.26,NaN,8.0,Intel Core i5,3300.0,NaN,NaN,13.3,IPS,1920x1200,0.0,3798
+מחשב נייד Lenovo ThinkPad L15 Gen 3 21C3001JIV לנובו,Lenovo,NaN,1.76,NaN,16.0,Intel Core i5,3300.0,NaN,NaN,15.6,IPS,1920x1080,0.0,4835
+מחשב נייד Asus Zenbook 14X OLED UX5400EA-L7150 אסוס,Asus,NaN,1.4,ללא,8.0,Intel Core i5,2400.0,NaN,NaN,14.0,OLED,2880X1800,0.0,3795
+מחשב נייד Asus VivoBook Pro 16 OLED K6602HC-KV052W אסוס,Asus,NaN,1.9,NaN,16.0,Intel Core i9,2500.0,NaN,NaN,16.0,OLED,2560x1600,0.0,4980

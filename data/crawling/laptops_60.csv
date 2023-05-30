@@ -1,0 +1,49 @@
+name,company,date,weight,OS,ram,processor,processor_speed,hard_drive,hard_drive_type,screen_size,screen_type,screen_resolution,touch_screen,price
+מחשב נייד Asus VivoBook 16X X1603ZA-L2015W אסוס,Asus,NaN,1.8,NaN,16.0,Intel Core i7,2700.0,NaN,NaN,16.0,OLED,3840X2400,0.0,4354
+מחשב נייד Asus ZenBook 13 UX325EA-KG666W אסוס,Asus,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3917
+מחשב נייד Lenovo IdeaPad Gaming 3 15IHU6 82K100JXIV לנובו,Lenovo,NaN,2.25,ללא,16.0,Intel Core i5,3100.0,NaN,NaN,15.6,IPS,1920x1080,0.0,3561
+מחשב נייד Asus TUF Dash F15 FX516PC-HN045 אסוס,Asus,NaN,2.0,ללא,16.0,Intel Core i5,3100.0,NaN,NaN,15.6,LCD,1920x1080,0.0,4026
+מחשב נייד Asus Vivobook Pro 15 M3500QC-L1079 אסוס,Asus,NaN,1.65,ללא,16.0,AMD Ryzen 7,3200.0,512.0,SSD,15.6,OLED,1920x1080,0.0,4526
+מחשב נייד Asus M515UA-BQ364 אסוס,Asus,NaN,1.8,ללא,8.0,AMD Ryzen 5,2100.0,256.0,SSD,15.6,LCD,1920x1080,0.0,1970
+מחשב נייד Asus TUF Gaming F15 FX516PC-HN558W אסוס,Asus,NaN,2.0,NaN,8.0,Intel Core i5,3100.0,NaN,NaN,15.6,LCD,1920x1080,0.0,3890
+מחשב נייד Asus ExpertBook B3 Flip B3402FEA-EC0920X אסוס,Asus,NaN,1.61,NaN,16.0,Intel Core i7,2800.0,NaN,NaN,14.0,LCD,1920x1080,1.0,4810
+מחשב נייד Lenovo IdeaPad Gaming 3 15IHU6 82K100K7IV לנובו,Lenovo,NaN,2.25,NaN,16.0,Intel Core i7,3300.0,1000.0,SSD,15.6,IPS,1920x1080,0.0,5148
+מחשב נייד Dell Vostro 5410 V5410-8113 דל,Dell,NaN,1.44,NaN,16.0,Intel Core i7,NaN,512.0,SSD,14.0,LCD,1920x1080,0.0,4595
+מחשב נייד Dell Inspiron 5410 IN-RD33-13481 דל,Dell,NaN,1.44,NaN,16.0,Intel Core i7,NaN,512.0,SSD,14.0,LED,1920x1080,0.0,4401
+מחשב נייד Asus ROG Strix Scar 15 G533ZX-LN086W אסוס,Asus,NaN,2.3,NaN,32.0,Intel Core i9,2900.0,NaN,NaN,15.6,LCD,NaN,0.0,18490
+מחשב נייד Dell Inspiron 5410 IN-RD33-13472 דל,Dell,NaN,1.44,NaN,16.0,Intel Core i5,3200.0,512.0,SSD,14.0,LED,1920x1080,0.0,3781
+מחשב נייד Dell Inspiron 5510 IN-RD33-13428 דל,Dell,NaN,1.57,NaN,16.0,Intel Core i7,3300.0,1000.0,SSD,15.6,LED,1920x1080,0.0,4858
+מחשב נייד Dell Inspiron 5410 IN-RD33-13476 דל,Dell,NaN,1.44,NaN,16.0,Intel Core i7,NaN,512.0,SSD,14.0,LED,1920x1080,0.0,4989
+מחשב נייד Lenovo IdeaPad Flex 5 14ITL05 82HS00YSIV לנובו,Lenovo,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,4518
+מחשב נייד Lenovo IdeaPad Flex 5 15IIL05 81X30008US לנובו,Lenovo,NaN,NaN,NaN,NaN,NaN,1000.0,NaN,NaN,NaN,NaN,NaN,NaN,3190
+מחשב נייד Huawei Matebook D14 NobelB-WAH9EQ וואווי,Huawei,NaN,1.38,Windows  10,8.0,Intel Core i5,1600.0,NaN,NaN,14.0,LCD,1920x1080,0.0,3390
+מחשב נייד HP 15s-eq1005nj 29A02EA,HP,NaN,1.69,NaN,8.0,AMD Ryzen 3,2600.0,NaN,NaN,15.6,LCD,1920x1080,0.0,1599
+מחשב נייד Asus K3500PC-L1051 אסוס,Asus,NaN,1.65,ללא,16.0,Intel Core i7,3500.0,NaN,NaN,15.6,OLED,1920x1080,0.0,4789
+מחשב נייד Asus VivoBook Pro 15 K3500PC-L1049W אסוס,Asus,NaN,1.65,NaN,16.0,Intel Core i7,3500.0,NaN,NaN,15.6,OLED,1920x1080,0.0,5325
+מחשב נייד Asus VivoBook Pro 15 K3500PC-L1192W אסוס,Asus,NaN,1.65,NaN,16.0,Intel Core i7,3500.0,NaN,NaN,15.6,OLED,1920x1080,0.0,5089
+מחשב נייד Asus ZenBook 14 UX425EA-KI940 אסוס,Asus,NaN,1.17,ללא,16.0,Intel Core i7,2800.0,1000.0,SSD,14.0,LCD,1920x1080,0.0,4623
+מחשב נייד Asus UX425EA-KI855 אסוס,Asus,NaN,1.17,ללא,16.0,Intel Core i5,2400.0,512.0,SSD,14.0,LCD,1920x1080,0.0,3790
+מחשב נייד Lenovo Yoga 7 14ITL5 82BH00LNIV לנובו,Lenovo,NaN,1.43,NaN,8.0,Intel Core i7,2800.0,512.0,SSD,14.0,IPS,1920x1080,1.0,4300
+מחשב נייד Acer Nitro 5 AN517-41-R63L NH.QAREC.00D אייסר,Acer,NaN,2.7,NaN,16.0,AMD Ryzen 7,3200.0,1000.0,SSD,17.3,LED,1920x1080,0.0,6387
+מחשב נייד Lenovo IdeaPad Flex 5 14ALC05 82HU00XQIV לנובו,Lenovo,NaN,1.5,NaN,8.0,AMD Ryzen 5,2100.0,512.0,SSD,14.0,IPS,1920x1080,1.0,2848
+מחשב נייד Dell XPS 13 9310 XP-RD33-13396 דל,Dell,NaN,1.32,Windows 10 PRO,16.0,Intel Core i7,2800.0,1000.0,SSD,13.4,LED,3840X2400,1.0,10789
+מחשב נייד Asus X415MA-EB539 אסוס,Asus,NaN,1.6,ללא,8.0,Intel Celeron,1100.0,256.0,SSD,14.0,LED,1920x1080,0.0,1290
+מחשב נייד Asus M515UA-BQ363 אסוס,Asus,NaN,1.8,ללא,16.0,AMD Ryzen 7,NaN,NaN,NaN,15.6,LED,1920x1080,0.0,2990
+מחשב נייד Asus X512JP-BQ135T אסוס,Asus,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3890
+מחשב נייד Lenovo IdeaPad 5 Pro 16ACH6 82L500U5IV לנובו,Lenovo,NaN,1.9,NaN,16.0,AMD Ryzen 7,3200.0,1000.0,SSD,16.0,IPS,2560x1600,0.0,4950
+מחשב נייד Asus X571GT-HN1053 אסוס,Asus,NaN,2.14,ללא,16.0,Intel Core i5,2400.0,NaN,NaN,15.6,LCD,1920x1080,0.0,3490
+מחשב נייד Lenovo IdeaPad 5 Pro 16ACH6 82L500P9IV לנובו,Lenovo,NaN,1.9,Windows 11,16.0,AMD Ryzen 7,3200.0,512.0,SSD,16.0,IPS,2560x1600,0.0,4948
+מחשב נייד Dell Inspiron 5510 N5510-6422 דל,Dell,NaN,NaN,Windows 11,8.0,Intel Core i5,3100.0,512.0,SSD,15.6,LCD,1920x1080,0.0,3459
+מחשב נייד Dell Inspiron 5510 IN-RD33-13268 דל,Dell,NaN,1.57,NaN,16.0,Intel Core i7,NaN,NaN,NaN,15.6,LED,1920x1080,0.0,4605
+מחשב נייד Dell XPS 17 9710 XP-RD33-13287 דל,Dell,NaN,2.42,NaN,32.0,Intel Core i7,2300.0,NaN,NaN,17.0,LCD,3840X2400,1.0,13839
+מחשב נייד Dell G15 5511 IN-RD33-13259 דל,Dell,NaN,2.57,NaN,16.0,Intel Core i7,2300.0,NaN,NaN,15.6,LED,1920x1080,0.0,5330
+מחשב נייד Lenovo Legion 5 Pro 16ITH6 82JD0076IV לנובו,Lenovo,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9990
+מחשב נייד Dell XPS 13 9310 XPS13-8743 דל,Dell,NaN,1.32,NaN,16.0,Intel Core i7,2800.0,512.0,SSD,13.4,LCD,3840X2400,1.0,12336
+מחשב נייד Asus ZenBook 14 UX425EA-KI837W אסוס,Asus,NaN,1.17,NaN,8.0,Intel Core i5,2400.0,NaN,NaN,NaN,LCD,1920x1080,0.0,3443
+מחשב נייד Asus ZenBook 14 UX425EA-KI862W אסוס,Asus,NaN,1.17,NaN,16.0,Intel Core i5,3200.0,NaN,NaN,14.0,LCD,1920x1080,0.0,4105
+מחשב נייד Asus ZenBook 14 UX425EA-KI860W אסוס,Asus,NaN,1.17,NaN,16.0,Intel Core i5,3200.0,NaN,NaN,14.0,LCD,1920x1080,0.0,3889
+מחשב נייד Lenovo V14 G2 ITL 82KA001SIV לנובו,Lenovo,NaN,1.6,Windows 10 PRO,8.0,Intel Core i5,2400.0,NaN,NaN,14.0,LCD,1920x1080,0.0,2590
+מחשב נייד Lenovo IdeaPad 5 Pro 16ACH6 82L500P5IV לנובו,Lenovo,NaN,1.9,Windows 11,16.0,AMD Ryzen 5,3300.0,1000.0,SSD,16.0,IPS,2560x1600,0.0,4379
+מחשב נייד Asus ZenBook Flip 15 UX564PH-EZ017W אסוס,Asus,NaN,1.9,Windows 11,16.0,Intel Core i7,3300.0,1000.0,SSD,15.6,LCD,1920x1080,1.0,6700
+מחשב נייד Asus ZenBook Flip 15 UX564EH-EZ044W אסוס,Asus,NaN,1.9,Windows 11,16.0,Intel Core i7,2800.0,1000.0,SSD,15.6,LCD,1920x1080,1.0,6979
+מחשב נייד Asus ZenBook Flip 15 UX564EI-EZ055W אסוס,Asus,NaN,1.9,NaN,16.0,Intel Core i7,2800.0,NaN,NaN,15.6,LCD,1920x1080,1.0,7489

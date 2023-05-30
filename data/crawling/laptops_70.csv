@@ -1,0 +1,17 @@
+name,company,date,weight,OS,ram,processor,processor_speed,hard_drive,hard_drive_type,screen_size,screen_type,screen_resolution,touch_screen,price
+Asus ‏W7600H3A-L2076X,Asus,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,12688
+Asus ‏TUF Dash F15 FX516PC HN005,Asus,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,4616
+מחשב נייד Asus TUF Gaming F15 FX507ZC4-HN105 אסוס,Asus,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,4190
+מחשב נייד Asus TUF Gaming F15 FX507ZU4-LP056 אסוס,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5378
+מחשב נייד Asus TUF Gaming F15 FX507VV4-LP061 אסוס,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,6778
+מחשב נייד Lenovo ThinkPad L15 Gen 3 21C4S1L000 לנובו,Lenovo,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,3608
+Asus ‏X515EA-BQ877W,Asus,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,2899
+Acer ‏Aspire 1 NX.HE4ET.002,Acer,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,1149
+Dell ‏Inspiron 5502 N5502-7425,Dell,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5490
+מחשב נייד Apple MacBook Pro 16 M1 Max Z150-HB-KIT אפל,Apple,NaN,2.2,MacOS,32.0,NaN,NaN,NaN,NaN,NaN,LCD,NaN,0.0,11590
+מחשב נייד Microsoft Surface Laptop 5 13.5 i7 16GB 512GB RBH-00051 מיקרוסופט,Microsoft,NaN,1.3,NaN,16.0,Intel Core i7,NaN,NaN,NaN,13.5,LCD,2256x1504,1.0,9462
+מחשב נייד Microsoft Surface Laptop 5 13.5 i7 16GB 512GB RBH-00001 מיקרוסופט,Microsoft,NaN,1.3,NaN,16.0,Intel Core i7,NaN,NaN,NaN,13.5,LCD,2256x1504,1.0,9462
+Microsoft ‏Surface Laptop 5 13.5 i7 16GB 256GB RB1-00001,Microsoft,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9462
+מחשב נייד Microsoft Surface Laptop 5 13.5 i5 16GB 512GB R8P-00024 מיקרוסופט,Microsoft,NaN,1.3,NaN,16.0,Intel Core i5,NaN,NaN,NaN,13.5,LCD,2256x1504,1.0,8390
+מחשב נייד Microsoft Surface Laptop 5 13.5 i5 16GB 512GB R8P-00047 מיקרוסופט,Microsoft,NaN,1.3,NaN,16.0,Intel Core i5,NaN,NaN,NaN,13.5,LCD,2256x1504,1.0,8399
+מחשב נייד EliteBook 630 G9‎ 6A2B9EA HP,HP,NaN,1.28,ללא,16.0,Intel Core i5,NaN,NaN,NaN,13.3,IPS,1920x1080,0.0,3775
